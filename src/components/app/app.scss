@@ -1,0 +1,11 @@
+.app-container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+
+    .controls {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
