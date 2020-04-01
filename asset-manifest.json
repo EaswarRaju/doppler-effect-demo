@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/doppler-effect-demo/static/css/main.98012f86.chunk.css",
+    "main.js": "/doppler-effect-demo/static/js/main.4429abb2.chunk.js",
+    "main.js.map": "/doppler-effect-demo/static/js/main.4429abb2.chunk.js.map",
+    "runtime-main.js": "/doppler-effect-demo/static/js/runtime-main.5418f95b.js",
+    "runtime-main.js.map": "/doppler-effect-demo/static/js/runtime-main.5418f95b.js.map",
+    "static/js/2.f6c6a411.chunk.js": "/doppler-effect-demo/static/js/2.f6c6a411.chunk.js",
+    "static/js/2.f6c6a411.chunk.js.map": "/doppler-effect-demo/static/js/2.f6c6a411.chunk.js.map",
+    "index.html": "/doppler-effect-demo/index.html",
+    "precache-manifest.2418284b539be6b88c0b77fa7dda9c5b.js": "/doppler-effect-demo/precache-manifest.2418284b539be6b88c0b77fa7dda9c5b.js",
+    "service-worker.js": "/doppler-effect-demo/service-worker.js",
+    "static/css/main.98012f86.chunk.css.map": "/doppler-effect-demo/static/css/main.98012f86.chunk.css.map",
+    "static/js/2.f6c6a411.chunk.js.LICENSE.txt": "/doppler-effect-demo/static/js/2.f6c6a411.chunk.js.LICENSE.txt",
+    "static/media/star-small.png": "/doppler-effect-demo/static/media/star-small.eba6df9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5418f95b.js",
+    "static/js/2.f6c6a411.chunk.js",
+    "static/css/main.98012f86.chunk.css",
+    "static/js/main.4429abb2.chunk.js"
+  ]
+}
